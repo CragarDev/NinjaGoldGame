@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.scrollspy-example {
+  position: relative;
+  height: 300px;
+  margin-top: 0.5rem;
+  overflow: auto;
+}
+
+.string_output_pos {
+  color: green;
+  padding: 0;
+}
+
+.string_output_neg {
+  color: red;
+  padding: 0;
+}
